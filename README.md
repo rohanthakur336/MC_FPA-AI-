@@ -1,0 +1,2 @@
+# MC_FPA-AI-
+This AI-based project will  uses the A*,BFS,GENETIC and SIMULATED ANNEALING algorithms to find the fastest route between two locations. This type of system could be helpful for drivers, delivery companies, and other entities that need to determine the fastest way to get from one place to another.
