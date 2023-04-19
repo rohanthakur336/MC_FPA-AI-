@@ -135,7 +135,7 @@ def geneticalgo(iteration,population,count,visited):
 def crossover(population,count):
     if len(population)>1:
         temp1=population[0][2]
-        temp2=population[0][2]
+        temp2=population[1][2]
     else:
         return
     pt=int(math.ceil(len(temp1)/2))
